@@ -1,7 +1,6 @@
 # spring-boot-demo
 - springboot 2.0+整合各种技术
 
-- 点击添加springboot全系列技术交流qq群：[822132747](http://shang.qq.com/wpa/qunwpa?idkey=5bad2b8f8696a3fa80a906df2624de5560b3ab8614c817c3bab7d21270f77e93)
 
 - 所有的测试用例均在springboot默认生成的test文件夹下的测试类里
 
